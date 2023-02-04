@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/SKED/SKED.iml" filepath="$PROJECT_DIR$/SKED/SKED.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/SKED-manage.iml" filepath="$PROJECT_DIR$/.idea/SKED-manage.iml" />
     </modules>
   </component>
